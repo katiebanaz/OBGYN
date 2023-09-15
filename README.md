@@ -7,6 +7,13 @@ Please visit [Henry County Medical Center](https://www.hcmc-tn.org/) for more in
 | --- | --- |
 | testing | 867-5309 |
 
+This is a bullet list:
+* point 1
+   * subpoint
+* point 2
+* point 3
+* point 4
+
 ```geojson
 {
   "type": "FeatureCollection",
