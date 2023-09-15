@@ -15,28 +15,15 @@ This is a bullet list:
 * point 4
 
 ```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
+{ "type": "FeatureCollection",
+    "features": [
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-88.3, 36.3]},
+        "properties": {"prop0": "value0"}
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-36,86],
-              [-36,87],
-              [-35,88],
-              [-39,88],
-              [-35,90]
-          ]
-        ]
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-88.8, 35.6]},
+        "properties": {"prop0": "value1"}
       }
-    }
-  ]
+   ]
 }
-```
