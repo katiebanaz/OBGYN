@@ -7,6 +7,8 @@ Please visit [Henry County Medical Center](https://www.hcmc-tn.org/) for more in
 | --- | --- |
 | testing | 867-5309 |
 
+I can make something **bold** or *italicized*
+
 This is a bullet list:
 * point 1
    * subpoint
